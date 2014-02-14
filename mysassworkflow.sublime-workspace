@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"asdn"
+			],
+			[
+				"test",
+				"testName"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"li",
+				"list-style-image"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/offbroadway/pages/productdetails.kit",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_mProdViews.kit",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_productdetails.scss",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_aside.kit",
+		"/Applications/MAMP/htdocs/offbroadway/js/main.js",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_sign_up.scss",
+		"/Applications/MAMP/htdocs/offbroadway/scss/app.scss",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_pg_cont_careers.kit",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_pg_cont_sign_up.kit",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_careers.scss",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_pg_cont_about.kit",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_static.scss",
+		"/Applications/MAMP/htdocs/offbroadway/pages/about.kit",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_about.scss",
+		"/Applications/MAMP/htdocs/offbroadway/pages/careers.kit",
+		"/Applications/MAMP/htdocs/offbroadway/careers.html",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_header.kit",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_footerstyles.scss",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_globalmenu.scss",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_header.scss",
+		"/Applications/MAMP/htdocs/untitled folder/found5/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/untitled folder/found5/scss/app.scss",
+		"/Applications/MAMP/htdocs/found5/found5/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/offbroadway/a/j/foundation/foundation.dropdown.js",
+		"/Applications/MAMP/htdocs/offbroadway/js/vendor/jquery.js",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_jslinks.kit",
+		"/Applications/MAMP/htdocs/offbroadway/a/j/vendor/jquery-ck.js",
+		"/Applications/MAMP/htdocs/offbroadway/bower_components/jquery/jquery-ck.js",
+		"/Applications/MAMP/htdocs/offbroadway/partials/storepolicies.html",
+		"/Applications/MAMP/htdocs/offbroadway/config.rb",
+		"/Applications/MAMP/htdocs/offbroadway/pages/myAccount.kit",
+		"/Applications/MAMP/htdocs/offbroadway/pages/giftcards.kit",
+		"/Applications/MAMP/htdocs/offbroadway/pages/cart.kit",
+		"/Applications/MAMP/htdocs/offbroadway/js/contactvalidationform.js",
+		"/Applications/MAMP/htdocs/offbroadway/partials/termsofuse.html",
+		"/Applications/MAMP/htdocs/offbroadway/codekit-config.json",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_search.kit",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_head.kit",
+		"/Applications/MAMP/htdocs/offbroadway/partials/_footer.kit",
+		"/Applications/MAMP/htdocs/lanebugs/02-Approval.html",
+		"/Applications/MAMP/htdocs/html5class/index.html",
+		"/Applications/MAMP/htdocs/html5class/cart.html",
+		"/Applications/MAMP/htdocs/html5class/test.html",
+		"/Applications/MAMP/htdocs/emmet/02_01/working folder/emmet/index.html",
+		"/Users/jeromeamos/Downloads/9781783286034_Code/chapter 1/object_intro.html",
+		"/Users/jeromeamos/Downloads/Ex_Files_Emmet_CF/Exercise Files/02_01/finished/emmet/index.html",
+		"/Users/jeromeamos/Downloads/Ex_Files_Emmet_CF/Exercise Files/02_01/working folder/emmet/index.html",
+		"/Applications/MAMP/htdocs/CSS_N_SASS/05_02/finished/sassycompass/index.html",
+		"/Applications/MAMP/htdocs/CSS_N_SASS/05_02/finished/sassycompass/gruntfile.js",
+		"/Applications/MAMP/htdocs/CSS_N_SASS/05_02/finished/sassycompass/_/css/styles.css",
+		"/Applications/MAMP/htdocs/CSS_N_SASS/05_02/finished/sassycompass/_/components/sass/_layout.scss",
+		"/Applications/MAMP/htdocs/html5class/jsdev/main.js",
+		"/Applications/MAMP/htdocs/html5class/cartold.html",
+		"/Applications/MAMP/htdocs/html5class/assets/js/main-ck.js",
+		"/Applications/MAMP/htdocs/html5class/config.rb",
+		"/Applications/MAMP/htdocs/html5class/sass/main.scss",
+		"/Applications/MAMP/htdocs/htmlclass/cart.html",
+		"/Users/jeromeamos/Desktop/ecomm-psd2html/index.html",
+		"/Applications/MAMP/htdocs/offbroadway/scss/_hpbanner.scss",
+		"/Applications/MAMP/htdocs/offbroadway/pages/index.kit",
+		"/Applications/MAMP/htdocs/offbroadway/bower_components/foundation/scss/foundation/components/_forms.scss",
+		"/Applications/MAMP/htdocs/c3day7/day7.html",
+		"/Applications/MAMP/htdocs/c3day7/js/mainscript.js",
+		"/Applications/MAMP/htdocs/c3day7/js/vendor/jquery.js",
+		"/Applications/MAMP/htdocs/c3day7/scss/_normalize.scss",
+		"/Applications/MAMP/htdocs/c3day7/config.rb",
+		"/Applications/MAMP/htdocs/c3day7/scss/main.scss",
+		"/Applications/MAMP/htdocs/c3day7/pages/index.kit",
+		"/Applications/MAMP/htdocs/c3day7/index.html",
+		"/Applications/MAMP/htdocs/c3day7/a/c/main.css",
+		"/Applications/MAMP/htdocs/c3day7/scss/_settings.scss",
+		"/Applications/MAMP/htdocs/c3day7/a/c/screen.css",
+		"/Applications/MAMP/htdocs/code3/homepage.html",
+		"/Applications/MAMP/htdocs/code3/a/c/foundation.css",
+		"/Applications/MAMP/htdocs/day6/index.html",
+		"/Applications/MAMP/htdocs/day6/sass/screen.scss",
+		"/Applications/MAMP/htdocs/day6/stylesheets/screen.css",
+		"/Applications/MAMP/htdocs/day6/sass/_header.scss",
+		"/Applications/MAMP/htdocs/day6/sass/_footer.scss",
+		"/Applications/MAMP/htdocs/day6/sass/_settings.scss",
+		"/Applications/MAMP/htdocs/day6/sass/_mixins.scss",
+		"/Applications/MAMP/htdocs/day6/sass/_asidepage.scss",
+		"/Applications/MAMP/htdocs/day6/sass/_main.scss",
+		"/Applications/MAMP/htdocs/spabook/ch03/3.2.1/js/spa.js",
+		"/Applications/MAMP/htdocs/spabook/ch03/3.2.1/js/spa.shell.js",
+		"/Applications/MAMP/htdocs/spabook/ch03/3.2.1/js/jq/jquery.uriAnchor-1.1.3.js",
+		"/Applications/MAMP/htdocs/spabook/ch01/spa-1.2.5.html",
+		"/Applications/MAMP/htdocs/code3/a/c/main.css",
+		"/Applications/MAMP/htdocs/code3/index.html",
+		"/Applications/MAMP/htdocs/code3/a/c/foundation.min.css",
+		"/Applications/MAMP/htdocs/code3/index-f.html",
+		"/Applications/MAMP/htdocs/prattcode3ins/config.rb",
+		"/Applications/MAMP/htdocs/prattcode3day4/codekit-config.json",
+		"/Applications/MAMP/htdocs/prattcode3ins/scss/app.scss",
+		"/Applications/MAMP/htdocs/prattcode3day4/config.rb",
+		"/Applications/MAMP/htdocs/prattcode3day4/index.html",
+		"/Applications/MAMP/htdocs/Sass/chapter2/sass/_base.scss",
+		"/Applications/MAMP/htdocs/Sass/chapter2/sass/screen.scss",
+		"/Applications/MAMP/htdocs/Sass/chapter2/sass/styles.scss",
+		"/Applications/MAMP/htdocs/Sass/chapter2/sass/partials/_normalize.scss",
+		"/Applications/MAMP/htdocs/Sass/chapter2/sass/partials/_variables.scss",
+		"/Applications/MAMP/htdocs/Sass/chapter2/index.html",
+		"/Applications/MAMP/htdocs/Sass/chapter2/css/styles.css",
+		"/Applications/MAMP/htdocs/Sass/chapter2/css/screen.css",
+		"/Applications/MAMP/htdocs/Sass/chapter2/config.rb",
+		"/Applications/MAMP/htdocs/prattcode3/pages/page2.kit",
+		"/Applications/MAMP/htdocs/prattcode3/index.html",
+		"/Applications/MAMP/htdocs/prattcode3/README.md",
+		"/Applications/MAMP/htdocs/May/css/main.css",
+		"/Applications/MAMP/htdocs/May/index.html",
+		"/Applications/MAMP/htdocs/spabook/apx0B/base-8.6.5/app.js",
+		"/Applications/MAMP/htdocs/jstestbed/jstestbed.sublime-project",
+		"/Applications/MAMP/htdocs/jstestbed/js/main.js",
+		"/Applications/MAMP/htdocs/templatecodekit/partials/structure/_head-ref.kit",
+		"/Applications/MAMP/htdocs/templatecodekit/partials/structure/index.kit",
+		"/Applications/MAMP/htdocs/templatecodekit/foundation_index.html",
+		"/Applications/MAMP/htdocs/template/index.html",
+		"/Applications/MAMP/htdocs/template/config.rb",
+		"/Applications/MAMP/htdocs/prattcoding3/j/vendor/zepto.js",
+		"/Users/jeromeamos/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jeromeamos/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$body-font-family-bold",
+			" @import \"foundation/functions\";",
+			"tabs-consumer",
+			"main",
+			"h1",
+			"=========",
+			"src=\"js/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"a/j/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Applications/MAMP/htdocs/mysassworkflow"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
