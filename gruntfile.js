@@ -6,7 +6,12 @@ module.exports = function (grunt){
 		uglify: {
 			my_target:{
 				files:{
-					'_/js/scripts.js':['_/components/js/*.js'],'_/js/vendor/modernizer.js':['_/components/js/vendor/modernizer.js']
+<<<<<<< HEAD
+					'_/js/scripts.js':['_/components/js/*.js'],
+					'_/js/vendor/modernizr.js':['_/components/js/vendor/modernizr.js']
+=======
+					'_/js/scripts.js':['_/components/js/*.js'],'_/js/vendor/modernizr.js':['_/components/js/vendor/modernizr.js']
+>>>>>>> 7050fb226eed09a3833169e8a30c5347177f632a
 				}
 			}
 		},
@@ -33,5 +38,5 @@ module.exports = function (grunt){
 			}	
 		}
 	})
-	grunt.registerTask('default','watch');
+	grunt.registerTask('default',['watch','compass','uglify']);
 }
