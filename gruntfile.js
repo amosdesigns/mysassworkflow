@@ -6,13 +6,10 @@ module.exports = function (grunt){
 		uglify: {
 			my_target:{
 				files:{
-<<<<<<< HEAD
+
 					'_/js/scripts.js':['_/components/js/*.js'],
 					'_/js/vendor/modernizr.js':['_/components/js/vendor/modernizr.js']
-=======
-					'_/js/scripts.js':['_/components/js/*.js'],'_/js/vendor/modernizr.js':['_/components/js/vendor/modernizr.js']
->>>>>>> 7050fb226eed09a3833169e8a30c5347177f632a
-				}
+
 			}
 		},
 		compass:{
